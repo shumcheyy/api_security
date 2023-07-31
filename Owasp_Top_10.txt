@@ -1,0 +1,11 @@
+BOLA - Broken Object Level Authorization
+BA - Broken Authentication
+URC - Unrestricted Resource Consumption
+BOPLA - Broken Object Property Level Authorization
+UASB - Unrestricted Access to Sensitive Businees Data
+BFLA - Broken Functional Level Authorization
+SSRF - Serve Side Request Forgery
+SM - Security Misconfiguration
+IIM - Insecure Inventory Management
+UCA - Unsafe Consumption of API
+
